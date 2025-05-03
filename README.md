@@ -4,7 +4,6 @@ A real-time stroke risk prediction system integrating machine learning, IoT sens
 
 https://github.com/user-attachments/assets/239533f9-5df0-4a0f-8a30-bdd6b3cf6f01
 
-Absolutely! Here's a more polished, professional version tailored for your GitHub README file:
 
 ---
 
@@ -101,5 +100,3 @@ When the model predicts a high stroke risk:
 * Stroke risk status is displayed on the results page
 
 ---
-
-Let me know if you'd like badges, deployment instructions (e.g., for Render or Heroku), or a visual diagram of the architecture.
